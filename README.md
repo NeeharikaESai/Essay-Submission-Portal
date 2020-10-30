@@ -1,7 +1,7 @@
 # Essay-Submission-Portal
 
 Project Name: Essay Sumbission Portal
-Technologies Used: MySql, PHP, HTML, CSS, Bootstrap
+Technologies Used: MySql, PHP, HTML5, CSS3, Bootstrap
 
 Aim: 
 
